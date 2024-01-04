@@ -3,6 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Application and Software Developer
 ----------------------------------
+<img align='right' src="https://dutchartinstitute.eu/image/2023/3/12/783c5a18_74bc_6a18_f4ff_b4dcde2f53c5.gif%28%29%28FAC346B5DFC09BC9BCE2FAECC80728D9%29.gif" width="200">
+
 
 * 🌍  I'm based in Gwalior
 * 🖥️  See my portfolio at [will edit it soon](http://myapp.com)
